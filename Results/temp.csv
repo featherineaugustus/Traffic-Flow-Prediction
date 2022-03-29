@@ -1,0 +1,14 @@
+,id,device_id,name,latitude,longitude,status,date,time,time zone,station_id,value,reading_type,reading_unit
+0,S50,S50,Clementi Road,1.3337,103.7768,healthy,2019-01-01,06:00:00,08:00,S50,25.0,DBT 1M F,deg C
+1,S107,S107,East Coast Parkway,1.3135,103.9625,healthy,2019-01-01,06:00:00,08:00,S107,26.5,DBT 1M F,deg C
+2,S43,S43,Kim Chuan Road,1.3399,103.8878,healthy,2019-01-01,06:00:00,08:00,S43,26.3,DBT 1M F,deg C
+3,S108,S108,Marina Gardens Drive,1.2799,103.8703,healthy,2019-01-01,06:00:00,08:00,S108,25.9,DBT 1M F,deg C
+4,S44,S44,Nanyang Avenue,1.34583,103.68166,healthy,2019-01-01,06:00:00,08:00,S44,24.2,DBT 1M F,deg C
+5,S121,S121,Old Choa Chu Kang Road,1.37288,103.72244,healthy,2019-01-01,06:00:00,08:00,S121,25.0,DBT 1M F,deg C
+6,S106,S106,Pulau Ubin,1.4168,103.9673,healthy,2019-01-01,06:00:00,08:00,S106,24.0,DBT 1M F,deg C
+7,S111,S111,Scotts Road,1.31055,103.8365,healthy,2019-01-01,06:00:00,08:00,S111,25.2,DBT 1M F,deg C
+8,S122,S122,Sembawang Road,1.41731,103.8249,healthy,2019-01-01,06:00:00,08:00,S122,24.8,DBT 1M F,deg C
+9,S115,S115,Tuas South Avenue 3,1.29377,103.61843,healthy,2019-01-01,06:00:00,08:00,S115,25.6,DBT 1M F,deg C
+10,S24,S24,Upper Changi Road North,1.3678,103.9826,healthy,2019-01-01,06:00:00,08:00,S24,25.5,DBT 1M F,deg C
+11,S116,S116,West Coast Highway,1.281,103.754,healthy,2019-01-01,06:00:00,08:00,S116,25.9,DBT 1M F,deg C
+12,S100,S100,Woodlands Road,1.4172,103.74855,healthy,2019-01-01,06:00:00,08:00,S100,25.2,DBT 1M F,deg C
