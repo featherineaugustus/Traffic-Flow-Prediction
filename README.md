@@ -5,6 +5,6 @@ We extract the images of the CCTV camera and deployed keras_ocr to remove words 
 
 Next, we trained linear regression models with different polynominal degress to best fit the number of vehicles against time (in hour 0-23).
 
-Also, we develop a best fit line table based on the mean number of cars at any given hour to predict the number of cars given a specific hour (0-23).
+Also, we develop a best fit line table based on the mean number of vehicles at any given hour to predict the number of vehicles given a specific hour (0-23).
 
 The best performance is apparently the best fit line table.
